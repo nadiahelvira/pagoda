@@ -1,0 +1,6 @@
+[13-Apr-2024 08:46:25 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/januar13/public_html/pagoda/app/Http/Requests/Auth/LoginRequest.php on line 12
+[14-Apr-2024 00:20:24 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Http\FormRequest' not found in /home/januar13/public_html/pagoda/app/Http/Requests/Auth/LoginRequest.php on line 12
+[27-Apr-2024 19:35:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/januar13/public_html/pagoda/app/Http/Requests/Auth/LoginRequest.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Requests/Auth/LoginRequest.php on line 12

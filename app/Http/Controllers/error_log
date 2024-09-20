@@ -1,0 +1,120 @@
+[23-Apr-2024 01:14:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/ChartController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/ChartController.php on line 13
+[23-Apr-2024 10:42:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/BaruController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/BaruController.php on line 7
+[23-Apr-2024 12:38:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/Controller.php on line 10
+[23-Apr-2024 16:39:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/PeriodeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/PeriodeController.php on line 9
+[23-Apr-2024 20:31:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/ProfileController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/ProfileController.php on line 13
+[24-Apr-2024 02:07:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/PostingController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/PostingController.php on line 15
+[24-Apr-2024 16:16:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/DashboardController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/DashboardController.php on line 10
+[24-Apr-2024 21:51:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/ChartController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/ChartController.php on line 13
+[25-Apr-2024 02:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/ProfileController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/ProfileController.php on line 13
+[25-Apr-2024 03:23:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/BaruController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/BaruController.php on line 7
+[25-Apr-2024 03:26:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/HomeController.php on line 8
+[25-Apr-2024 04:31:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/DashboardController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/DashboardController.php on line 10
+[25-Apr-2024 05:57:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/Controller.php on line 10
+[25-Apr-2024 06:14:11 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/UserController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/UserController.php on line 13
+[25-Apr-2024 06:47:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/PeriodeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/PeriodeController.php on line 9
+[25-Apr-2024 08:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/PostingController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/PostingController.php on line 15
+[25-Apr-2024 08:14:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/UserController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/UserController.php on line 13
+[25-Apr-2024 09:15:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/HomeController.php on line 8
+[25-Apr-2024 13:17:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/CheatsheetController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/CheatsheetController.php on line 13
+[25-Apr-2024 13:44:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/CheatsheetController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/CheatsheetController.php on line 13
+[28-Apr-2024 13:42:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/ChartController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/ChartController.php on line 13
+[28-Apr-2024 13:42:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/CheatsheetController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/CheatsheetController.php on line 13
+[28-Apr-2024 13:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/Controller.php on line 10
+[28-Apr-2024 13:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/DashboardController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/DashboardController.php on line 10
+[28-Apr-2024 13:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/BaruController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/BaruController.php on line 7
+[28-Apr-2024 13:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/UserController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/UserController.php on line 13
+[28-Apr-2024 13:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/HomeController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/HomeController.php on line 8
+[28-Apr-2024 13:42:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/PeriodeController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/PeriodeController.php on line 9
+[28-Apr-2024 13:42:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/PostingController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/PostingController.php on line 15
+[28-Apr-2024 13:42:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/ProfileController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/ProfileController.php on line 13

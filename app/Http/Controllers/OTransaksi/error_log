@@ -1,0 +1,44 @@
+[27-Apr-2024 09:50:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OTransaksi\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/JualController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/JualController.php on line 16
+[27-Apr-2024 10:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/PostingSLSController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/PostingSLSController.php on line 13
+[27-Apr-2024 11:43:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OTransaksi\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/PiuController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/PiuController.php on line 16
+[27-Apr-2024 11:45:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/StockController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/StockController.php on line 16
+[27-Apr-2024 17:14:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OTransaksi\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/PoController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/PoController.php on line 16
+[27-Apr-2024 18:23:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/TerimaController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/TerimaController.php on line 14
+[27-Apr-2024 20:04:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/BeliController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/BeliController.php on line 14
+[27-Apr-2024 20:14:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OTransaksi\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/SoController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/SoController.php on line 16
+[28-Apr-2024 01:04:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OTransaksi\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/PiuController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/PiuController.php on line 16
+[28-Apr-2024 07:33:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OTransaksi\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/HutController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/HutController.php on line 16
+[28-Apr-2024 20:42:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OTransaksi\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/JualController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OTransaksi/JualController.php on line 16

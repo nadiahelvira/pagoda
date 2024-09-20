@@ -1,0 +1,39 @@
+[06-Apr-2024 21:08:49 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[12-Apr-2024 10:02:09 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[13-Apr-2024 01:12:33 UTC] PHP Fatal error:  Class 'Illuminate\Foundation\Console\Kernel' not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[21-Apr-2024 16:54:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[21-Apr-2024 16:56:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[21-Apr-2024 16:56:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[21-Apr-2024 16:57:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[21-Apr-2024 16:58:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[22-Apr-2024 17:43:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[23-Apr-2024 22:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[27-Apr-2024 10:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8
+[28-Apr-2024 13:40:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/januar13/public_html/pagoda/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Console/Kernel.php on line 8

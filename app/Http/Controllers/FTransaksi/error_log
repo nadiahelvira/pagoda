@@ -1,0 +1,12 @@
+[27-Apr-2024 09:13:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\FTransaksi\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/FTransaksi/MemoController.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/FTransaksi/MemoController.php on line 18
+[28-Apr-2024 04:12:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\FTransaksi\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/FTransaksi/BankController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/FTransaksi/BankController.php on line 16
+[28-Apr-2024 06:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\FTransaksi\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/FTransaksi/KasController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/FTransaksi/KasController.php on line 17

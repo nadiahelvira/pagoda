@@ -1,0 +1,104 @@
+[27-Apr-2024 12:25:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RCustController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RCustController.php on line 15
+[27-Apr-2024 13:29:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RBrgController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RBrgController.php on line 15
+[27-Apr-2024 13:40:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RStokButuhController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RStokButuhController.php on line 13
+[27-Apr-2024 14:48:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RThutController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RThutController.php on line 13
+[27-Apr-2024 14:48:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RPoController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RPoController.php on line 13
+[27-Apr-2024 14:55:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RPiuPerTahunController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RPiuPerTahunController.php on line 13
+[27-Apr-2024 15:12:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RStockbController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RStockbController.php on line 13
+[27-Apr-2024 15:59:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RPiuController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RPiuController.php on line 13
+[27-Apr-2024 17:20:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RSoController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RSoController.php on line 13
+[27-Apr-2024 17:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RTerimaController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RTerimaController.php on line 13
+[27-Apr-2024 18:10:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RRekapBeliJualController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RRekapBeliJualController.php on line 13
+[27-Apr-2024 18:14:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RUmController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RUmController.php on line 13
+[27-Apr-2024 19:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RHutController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RHutController.php on line 14
+[27-Apr-2024 20:04:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RJualController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RJualController.php on line 13
+[27-Apr-2024 20:41:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RStockaController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RStockaController.php on line 15
+[27-Apr-2024 20:54:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RStokPerTahunController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RStokPerTahunController.php on line 13
+[27-Apr-2024 21:18:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RSupController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RSupController.php on line 15
+[27-Apr-2024 23:49:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RKartupController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RKartupController.php on line 14
+[27-Apr-2024 23:57:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RExpedisiController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RExpedisiController.php on line 13
+[28-Apr-2024 01:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RTpiuController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RTpiuController.php on line 13
+[28-Apr-2024 02:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RKarstkController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RKarstkController.php on line 15
+[28-Apr-2024 02:42:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RTimbangController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RTimbangController.php on line 14
+[28-Apr-2024 02:42:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RBeliController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RBeliController.php on line 13
+[28-Apr-2024 03:12:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RKartuhController.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RKartuhController.php on line 14
+[28-Apr-2024 04:32:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RUjController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RUjController.php on line 13
+[28-Apr-2024 05:48:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function App\Http\Controllers\OReport\base_path() in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RSisaposoController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Http/Controllers/OReport/RSisaposoController.php on line 13

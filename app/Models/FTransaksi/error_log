@@ -1,0 +1,214 @@
+[12-Apr-2024 13:57:30 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[12-Apr-2024 13:57:33 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php on line 8
+[12-Apr-2024 13:57:39 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10
+[12-Apr-2024 13:57:43 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php on line 8
+[12-Apr-2024 13:57:47 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php on line 10
+[12-Apr-2024 13:57:51 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php on line 8
+[13-Apr-2024 08:33:01 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[13-Apr-2024 08:33:04 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php on line 8
+[13-Apr-2024 08:33:07 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10
+[13-Apr-2024 08:33:09 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php on line 8
+[13-Apr-2024 08:33:17 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php on line 10
+[13-Apr-2024 08:33:19 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php on line 8
+[14-Apr-2024 15:37:08 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10
+[14-Apr-2024 15:38:41 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[21-Apr-2024 17:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php on line 8
+[21-Apr-2024 17:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php on line 8
+[21-Apr-2024 17:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10
+[21-Apr-2024 17:55:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[21-Apr-2024 17:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php on line 10
+[21-Apr-2024 17:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php on line 8
+[21-Apr-2024 17:55:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php on line 8
+[21-Apr-2024 17:56:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php on line 8
+[21-Apr-2024 17:56:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php on line 10
+[21-Apr-2024 17:56:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10
+[21-Apr-2024 17:56:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[21-Apr-2024 17:56:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php on line 8
+[21-Apr-2024 17:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php on line 10
+[21-Apr-2024 17:57:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php on line 8
+[21-Apr-2024 17:57:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php on line 8
+[21-Apr-2024 17:57:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php on line 8
+[21-Apr-2024 17:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10
+[21-Apr-2024 17:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php on line 10
+[21-Apr-2024 17:57:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[21-Apr-2024 17:57:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php on line 8
+[21-Apr-2024 17:57:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[21-Apr-2024 17:57:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php on line 8
+[21-Apr-2024 17:57:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10
+[21-Apr-2024 17:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php on line 8
+[21-Apr-2024 17:58:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php on line 8
+[21-Apr-2024 17:58:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[21-Apr-2024 17:58:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10
+[21-Apr-2024 17:58:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php on line 8
+[21-Apr-2024 17:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php on line 10
+[21-Apr-2024 17:58:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php on line 8
+[25-Apr-2024 01:47:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10
+[25-Apr-2024 04:09:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php on line 10
+[25-Apr-2024 06:06:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[25-Apr-2024 06:19:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php on line 8
+[25-Apr-2024 07:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php on line 8
+[25-Apr-2024 10:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php on line 8
+[26-Apr-2024 00:45:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[26-Apr-2024 00:45:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[26-Apr-2024 00:45:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[26-Apr-2024 00:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[26-Apr-2024 01:02:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php on line 8
+[28-Apr-2024 12:13:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php on line 8
+[28-Apr-2024 13:42:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Bank.php on line 10
+[28-Apr-2024 13:42:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/MemoDetail.php on line 8
+[28-Apr-2024 13:42:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/BankDetail.php on line 8
+[28-Apr-2024 13:42:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/KasDetail.php on line 8
+[28-Apr-2024 13:42:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10
+[28-Apr-2024 13:42:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php on line 10
+[28-Apr-2024 18:37:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Memo.php on line 10
+[29-Apr-2024 20:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/januar13/public_html/pagoda/app/Models/FTransaksi/Kas.php on line 10

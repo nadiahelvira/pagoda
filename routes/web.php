@@ -217,6 +217,11 @@ Route::get('/beli/repost/{beli}', 'App\Http\Controllers\OTransaksi\BeliControlle
 Route::get('/jsbelic/{beli:NO_ID}', 'App\Http\Controllers\OTransaksi\BeliController@jsbelic')->middleware(['auth']);
     
 
+// Operasional Transaksi Hutang
+Route::get('/rthut', 'App\Http\Controllers\OReport\RThutController@report')->middleware(['auth'])->name('rthut');
+Route::post('jasper-thut-report', 'App\Http\Controllers\OReport\RThutController@jasperThutReport')->middleware(['auth']);
+
+
 // Operational Terima
 Route::get('/terima', 'App\Http\Controllers\OTransaksi\TerimaController@index')->middleware(['auth'])->middleware(['checkDivisi:programmer,owner,assistant,penjualan'])->name('terima');
 Route::post('/terima/store', 'App\Http\Controllers\OTransaksi\TerimaController@store')->middleware(['auth'])->middleware(['checkDivisi:programmer,owner,assistant,penjualan'])->name('terima/store');

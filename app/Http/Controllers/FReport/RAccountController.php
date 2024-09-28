@@ -29,6 +29,7 @@ class RAccountController extends Controller
 		
 		session()->put('filter_pilih', '');
 		session()->put('filter_tahun', '');
+		session()->put('filter_periode', '');
 		
 		//return $acno;
         return view('freport_account.report')->with(['acno' => $acno])->with(['per' => $per])->with(['hasil' => []]);
@@ -88,9 +89,14 @@ class RAccountController extends Controller
 		{
 			$perio = $request['perio'];
 		}
+
+		if($request['tahun'])
+		{
+			$tahunx = $request['tahun'];
+		}
 		
-		$bulan = substr($periode,0,2);
-		$tahun = substr($periode,3,4);
+		$bulan = substr($perio,0,2);
+		$tahun = substr($perio,3,4);
 		$filter_tahun = date("Y", strtotime($request['tahun']));
 		$filter_periode = date("m/Y", strtotime($request['perio']));
 
@@ -111,7 +117,7 @@ class RAccountController extends Controller
 			//$queryakum = DB::SELECT("SET @akum:=0;");
 			$query = DB::SELECT(
 
-				" SELECT '' as PER, '$tahun' AS YER , accountd.ACNO AS ACNO,accountd.NAMA AS NAMA,accountd.AW01 AS AW ,accountd.KD01 + accountd.KD02 + accountd.KD03 + accountd.KD04 + accountd.KD05 + accountd.KD06 + accountd.KD07 + accountd.KD08 + accountd.KD09 + accountd.KD10 + accountd.KD11 + accountd.KD12 AS KD,
+				" SELECT '' as PER, '$tahunx' AS YER , accountd.ACNO AS ACNO,accountd.NAMA AS NAMA,accountd.AW01 AS AW ,accountd.KD01 + accountd.KD02 + accountd.KD03 + accountd.KD04 + accountd.KD05 + accountd.KD06 + accountd.KD07 + accountd.KD08 + accountd.KD09 + accountd.KD10 + accountd.KD11 + accountd.KD12 AS KD,
 						accountd.KK01 + accountd.KK02 + accountd.KK03 + accountd.KK04 + accountd.KK05 + accountd.KK06 + accountd.KK07 + accountd.KK08 + accountd.KK09 + accountd.KK10 + accountd.KK11 + accountd.KK12 AS KK,
 						accountd.BD01 + accountd.BD02 + accountd.BD03 + accountd.BD04 + accountd.BD05 + accountd.BD06 + accountd.BD07 + accountd.BD08 + accountd.BD09 + accountd.BD10 + accountd.BD11 + accountd.BD12 AS BD,
 						accountd.BK01 + accountd.BK02 + accountd.BK03 + accountd.BK04 + accountd.BK05 + accountd.BK06 + accountd.BK07 + accountd.BK08 + accountd.BK09 + accountd.BK10 + accountd.BK11 + accountd.BK12 AS BK,
@@ -119,7 +125,7 @@ class RAccountController extends Controller
 						accountd.MK01 + accountd.MK02 + accountd.MK03 + accountd.MK04 + accountd.MK05 + accountd.MK06 + accountd.MK07 + accountd.MK08 + accountd.MK09 + accountd.MK10 + accountd.MK11 + accountd.MK12 AS MK,
 						accountd.AK12 AS AK, accountd.POS2, accountd.KEL
 					FROM accountd
-					WHERE accountd.YER = '$filter_tahun'
+					WHERE accountd.YER = '$tahunx'
 					ORDER BY accountd.ACNO"
 				);
 		}
@@ -128,6 +134,7 @@ class RAccountController extends Controller
 		
 		session()->put('filter_pilih', $request->PILIH);
 		session()->put('filter_tahun', $request->tahun);
+		session()->put('filter_periode', $request->perio);
 
 
 

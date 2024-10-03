@@ -155,7 +155,7 @@
 								"HARGA" => array(
 									"label" => "Harga",
 									"type" => "number",
-									"decimals" => 0,
+									"decimals" => 5,
 									"decimalPoint" => ".",
 									"thousandSeparator" => ",",
 									"footer" => "sum",
